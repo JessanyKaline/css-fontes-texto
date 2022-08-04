@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+body > nav{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+nav > a{
+    color: #FFFFFF;
+    margin: 0PX 10PX;
+}
+
+header {
+    font-family: Open Sans, sans-serif;
+    width: 80%;
+    padding: 5% 10%;
+    background-color: rgb(27, 189, 189);
+    
+
+}
+
+aside {
+    width: 20%;
+    margin: 5%;
+    float: right;
+    margin-top: 2%;
+}
+
+aside h3{
+    text-decoration: none;
+   
+}
+
+section > article{
+    width: 60%;
+    margin: 0% 20%;
+}
+
+section > article > img {
+    display: block;
+    width: 60%;
+    margin: auto;
+}
+
+section > article > p {
+    text-align: center;
+}
+
+section > article > h3 {
+    text-align: left;
+    color: #95BBDF;
+
+}
+
+section > article > p {
+    text-align: left;
+}
+
+
+p {
+    font-family: PT Sans, sans-serif;
+    font-size: 16px;
+}
+
+
+a {
+        font-family: PT Sans, sans-serif;
+        font-size: 16px;
+        text-decoration: none;
+        
+    }
+
+button {
+    font-family: PT Sans, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+
+
